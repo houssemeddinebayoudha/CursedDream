@@ -1,5 +1,5 @@
 # CursedDream
-![curseddream](https://i.imgur.com/MPimNY5.png)
+![curseddream](https://i.imgur.com/MPimNY5.png)<hr>
 This game was made for the brackeys game jam where he challenged us to make a game in 7 days. 
 # The theme 
 ### Rewind 
